@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.bestfake.fakecall">
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <uses-permission-sdk-23 android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.ACTION_MANAGE_OVERLAY_PERMISSION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_config"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".activity.RewardActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.bestfake.fakecall.facebook.FBVoiceCallActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme3" />
+        <activity
+            android:name="com.bestfake.fakecall.facebook.FBVideoCallActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme3" />
+        <activity
+            android:name="com.bestfake.fakecall.whatapp.WAVideoCallActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="com.bestfake.fakecall.telegram.TeleVideoCallActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="com.bestfake.fakecall.telegram.TeleVoiceCallActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activity.DetailFakeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bestfake.fakecall.whatapp.WAVoiceCallActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".activity.SplashActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="com.bestfake.fakecall.util.AppReceiver"
+            android:enabled="true"
+            android:exported="true" /> <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/admobappid" />
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="@string/sdk_key_applovin" />
+    </application>
+
+</manifest>

@@ -1,0 +1,110 @@
+{
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "file:///android_asset/image/kim.jpeg",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Mr. Kim",
+      "image_url": "file:///android_asset/image/kim.jpeg",
+      "video_url": "footbal",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Kim Seok Jin",
+      "image_url": "file:///android_asset/image/jin.jpg",
+      "video_url": "footbal",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Jeon Jungkook",
+      "image_url": "https://asset.kompas.com/crops/y8YrNSENHec4V6IXawkBU_BLwSM=/0x0:900x600/750x500/data/photo/2019/11/04/5dc021dcbb270.jpeg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower.mov",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Jimin",
+      "image_url": "file:///android_asset/image/jimin.jpg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Suga",
+      "image_url": "https://assets.pikiran-rakyat.com/crop/0x17:727x768/x/photo/2020/06/18/317448455.jpg",
+      "video_url": "footbal",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+    },
+    {
+      "id": 5,
+      "name": "V BTS",
+      "image_url": "file:///android_asset/image/v.jpg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower.mov",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+    },
+    {
+      "id": 6,
+      "name": "J Hope",
+      "image_url": "file:///android_asset/image/jhope.jpg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 7,
+      "name": "RM BTS",
+      "image_url": "file:///android_asset/image/rm.jpg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    }
+  ]
+}

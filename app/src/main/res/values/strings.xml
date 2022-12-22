@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fake Call V3</string>
+    <string name="about">About</string>
+    <string name="deskripsi_about">Fake Video and Voice Call with 3 template</string>
+    <string name="menu_item_title">Share</string>
+    <string name="shareit">"Download Fake video and voice call on google playstore "</string>
+    <string name="privacypolice">Privacy Police</string>
+    <string name="howto">How to</string>
+    <string name="end_to_end">" End-to-end encrypted"</string>
+    <string name="calling2">WhatsApp voice call</string>
+    <string name="swipe">Swipe up to accept</string>
+    <string name="calling3">WhatsApp video call</string>
+    <string name="fbstatus">is calling you on Messenger…</string>
+
+    <string name="sdk_key_applovin">5UhA2fX7QnsiNAwdmPdJW-QTCSqDx1ssvQm1QC252VUsD0sLAG1-2hpDaqHKsM3ZwH0RlcTNcLKTn-gB_xBeBo</string>
+    <string name="sponsored">sponsored</string>
+    <string name="menu_item_rate">Rate App</string>
+    <string name="menu_item_seting">Xiomi Setting</string>
+    <string name="calling4">" Telegram Video Calls"</string>
+    <string name="calling7">Telegram voice call</string>
+    <string name="menu_item_update">Check Version</string>
+
+    <string name="icon_desc">Ad icon</string>
+    <string name="image_desc">Ad image</string>
+
+    <string name="admobappid">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="get_coins">To get coins please watch the ad video or take survey. Coins are used for download skin, addons or maps.</string>
+    <string name="menu_item_coin">Get Coins</string>
+    <string name="enough_coins">Your coins are not enough to use the time feature</string>
+</resources>
